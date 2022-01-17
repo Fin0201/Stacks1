@@ -15,7 +15,8 @@ namespace Pop_Top_Push_1
 
             Console.WriteLine(stringStack.Pop()); //Outputs and removes the string at the top of the stack
 
-            Console.WriteLine(stringStack.Peek()); //Outputs the op string but does not remove it
+            Console.WriteLine(stringStack.Peek()); //Outputs the top string but does not remove it
+
 
 
 
